@@ -1,3 +1,11 @@
 # fullstack_batrinath
 
-Hi First Pull Request
+In the My Project directory
+
+calculator
+counter
+accordions
+mealsApi
+testimonials
+todos
+validationcd
